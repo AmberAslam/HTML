@@ -3,4 +3,6 @@ Requirments:
 Type option
 colors
 vibrant
+Drak mood
+feedback option
 best products....etc.
