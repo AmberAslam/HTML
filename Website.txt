@@ -3,6 +3,14 @@ Requirments:
 Type option
 colors
 vibrant
-Drak mood
-feedback option
 best products....etc.
+
+-------------------------------------------------
+
+ABOUT ME:
+This is Amber Aslam
+Registration No : 19101001-055
+Course: Bs Software Engineering
+Section: 6th Grey
+This is 1st Assignment about GitHub.
+Submitted To: Sir Museb Khalid
